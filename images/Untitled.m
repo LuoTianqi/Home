@@ -1,3 +1,3 @@
-a = imread('banner_2.png');
-b = imresize(a, [400,1280]);
-imwrite(b,'banner.jpg');
+a = imread('cat_1.jpg');
+b = imresize(a, [194,270]);
+imwrite(b,'cat.jpg');
